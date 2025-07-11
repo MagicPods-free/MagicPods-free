@@ -1,0 +1,2 @@
+# MagicPods-free
+MagicPods free
